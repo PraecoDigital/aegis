@@ -1,0 +1,6 @@
+{
+  "name": "Aegis Intelligence",
+  "description": "Global Commodity Flow & OSINT Intelligence Platform tracking physical supply chain movements of Crude Oil and Gold Bullion via maritime AIS, satellite SAR, and ADS-B flight telematics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
